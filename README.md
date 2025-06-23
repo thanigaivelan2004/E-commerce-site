@@ -80,8 +80,7 @@ E-commerce-site/
 ---
 
 ## 📸 Screenshots
-
-*(Add actual screenshots if available)*  
+  
 | Home Page | Product List | Cart View |
 |-----------|--------------|-----------|
 | ![Home](screenshots/home.png) | ![Products](screenshots/products.png) | ![Cart](screenshots/cart.png) |
